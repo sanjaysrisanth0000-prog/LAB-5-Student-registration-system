@@ -1,4 +1,9 @@
 # LAB-5-Student-registration-system
+REGISTER NUMBER: 212225040375
+NAME: SANJAY SRISANTH V
+DATE: 31/08/2026
+
+
 ### AIM:
 To develop a project Student Registration System using Rational Rose Software and to
 implement the software in Java.
